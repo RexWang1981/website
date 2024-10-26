@@ -7,5 +7,7 @@ write freely, anything on top of my head.
 [google](https://www.google.com)
 
 
-Dairy record
-[2024-20-26]()
+## Dairy record
+* [2024-10-27]()
+* [2024-20-26](https://github.com/RexWang1981/rexwang1981.github.io/blob/main/2024_10_26.md)
+
