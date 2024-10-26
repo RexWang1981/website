@@ -9,5 +9,5 @@ write freely, anything on top of my head.
 
 ## Dairy record
 * [2024-10-27]()
-* [2024-20-26](http://rexwang1981.github.io/2024_10_26.md)
+* [2024-20-26](http://rexwang1981.github.io/2024_10_26.md](https://github.com/RexWang1981/rexwang1981.github.io/blob/main/2024_10_26.md)
 
