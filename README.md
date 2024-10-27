@@ -26,7 +26,7 @@ _Write freely， write down anything on top of my head._
 * [HTTP基础知识](http://www.steves-internet-guide.com/http-basics/)（英文）
 * [谷歌工程实践文档](https://github.com/xindoo/eng-practices-cn?tab=readme-ov-file)
 * [如何读论文](https://blog.csdn.net/qianlong4526888/article/details/11269129)（英文）
-* [Aam$\cdot$Altman讲如何成功](https://threadreaderapp.com/thread/1214274038933020672.html)（英文）
+* [Sam Altman讲如何成功](https://threadreaderapp.com/thread/1214274038933020672.html)（英文）
 * [如何做知识管理](https://tkainrad.dev/posts/managing-my-personal-knowledge-base/)（英文）
 * [创业的23条规则](https://joisig.com/rules-software-startup-minimum-hassle)（英文）
 * [20年程序员总结的编程规则](https://alexewerlof.medium.com/my-guiding-principles-after-20-years-of-programming-a087dc55596c)
