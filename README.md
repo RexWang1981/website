@@ -9,7 +9,7 @@ _Write freely， write down anything on top of my head._
 * [2024-10-29]()
 * [2024-10-28]()
 * [2024-10-27]()
-* [2024-20-26](https://github.com/RexWang1981/rexwang1981.github.io/blob/main/2024_10_26.md)
+* [2024-10-26](https://github.com/RexWang1981/rexwang1981.github.io/blob/main/2024_10_26.md)
 * [2024-10-25]()
 
 
