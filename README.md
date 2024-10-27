@@ -24,3 +24,5 @@ _Write freely， write down anything on top of my head._
 * [各种生活实用定律](https://github.com/nusr/hacker-laws-zh)
 * [人类和铁的故事](https://blog.rootsofprogress.org/iron-from-mythical-to-mundane)（英文）
 * [HTTP基础知识](http://www.steves-internet-guide.com/http-basics/)（英文）
+* [谷歌工程实践文档](https://github.com/xindoo/eng-practices-cn?tab=readme-ov-file)
+* 
