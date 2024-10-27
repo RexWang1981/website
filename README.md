@@ -21,3 +21,4 @@ _Write freely， write down anything on top of my head._
 ## 有趣的文章
 * [时间焦虑](https://nesslabs.com/time-anxiety)（英文）
 * [秋天树叶为什么会变黄](https://collabfund.com/blog/three-big-things-the-most-important-forces-shaping-the-world/)（英文）
+* [各种生活实用定律](https://github.com/nusr/hacker-laws-zh)
