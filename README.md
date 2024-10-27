@@ -8,7 +8,7 @@ _Write freely， write down anything on top of my head._
 ## 日记
 * [2024-10-29]()
 * [2024-10-28]()
-* [2024-10-27](https://github.com/RexWang1981/rexwang1981.github.io/blob/main/Docs/2024-10-27%20Rex%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0.md)
+* [2024-10-27](https://github.com/RexWang1981/rexwang1981.github.io/blob/main/Docs/2024-10-27%20Rex%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0.md)Markdown标签语言学习笔记
 * [2024-10-26](https://github.com/RexWang1981/rexwang1981.github.io/blob/main/2024_10_26.md)
 * [2024-10-25]()
 
