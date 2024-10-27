@@ -16,3 +16,7 @@ _Write freely， write down anything on top of my head._
 * [谷歌字体](https://fonts.google.com/specimen/Open+Sans)
 * [Z-Lib](https://zh.z-lib.gs/)
 
+
+## 有趣的文章
+* [时间焦虑](https://nesslabs.com/time-anxiety)（英文）
+* 
