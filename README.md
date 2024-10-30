@@ -27,4 +27,4 @@
 * [如何做知识管理](https://tkainrad.dev/posts/managing-my-personal-knowledge-base/)（英文）
 * [创业的23条规则](https://joisig.com/rules-software-startup-minimum-hassle)（英文）
 * [20年程序员总结的编程规则](https://alexewerlof.medium.com/my-guiding-principles-after-20-years-of-programming-a087dc55596c)
-* []()
+* [微控制器介绍](https://blog.toit.io/what-you-need-to-know-about-microcontrollers-5fabd6d5b019)
