@@ -10,6 +10,37 @@
 * [2024-10-26](https://github.com/RexWang1981/rexwang1981.github.io/blob/main/2024_10_26.md)
 * [2024-11-8 Photo collections](https://github.com/RexWang1981/rexwang1981.github.io/blob/main/Docs/2024-11-8%20Photo.md)
 
+## Link
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 
+| - | - | - | - | - | - | - | - | - |  - |
+| [Gmail][1] | [Linked_In][2] | [X][3] | [Facebook][4] | [Z-Lib][5] |  [GitHub][6] | [My_Blog][7] | [RYF科技周刊][8] | [技术周刊][9] | [Threads][10] | 
+| [ChatGPT][11] | [][12] | [][13] | [][14] | [][15] |  [][16] | ][17] | [][18] | [][19] | [][20] | 
+| [][21] | [][22] | [][23] | [][24] | [][25] |  [][26] | ][27] | [][28] | [][29] | [][30] | 
+
+
+[1]:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox
+[2]:https://www.linkedin.com/feed/
+[3]:https://www.x.com/
+[4]:https://www.facebook.com/
+[5]:https://zh.z-lib.gs/
+[6]:https://github.com/ruanyf/weekly
+[7]:https://github.com/RexWang1981/rexwang1981.github.io/tree/main
+[8]:https://github.com/ruanyf/weekly
+[9]:https://github.com/Geekhyt/weekly
+[10]:https://www.threads.net/?__coig_challenged=1
+[11]:https://chatgpt.com/?hints=search
+[12]:
+[13]:
+[14]:
+[15]:
+[16]:
+[17]:
+[18]:
+[19]:
+[20]:
+
+
 ## 工具集
 * [谷歌字体](https://fonts.google.com/specimen/Open+Sans)
 * [Z-Lib](https://zh.z-lib.gs/)
