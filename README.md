@@ -15,7 +15,7 @@
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 
 | - | - | - | - | - | - | - | - | - |  - |
 | [Gmail][1] | [Linked_In][2] | [X][3] | [Facebook][4] | [Z-Lib][5] |  [GitHub][6] | [My_Blog][7] | [RYF科技周刊][8] | [技术周刊][9] | [Threads][10] | 
-| [ChatGPT][11] | [Claude][12] | [][13] | [][14] | [][15] |  [][16] | ][17] | [][18] | [][19] | [][20] | 
+| [ChatGPT][11] | [Claude][12] | [Youtube][13] | [][14] | [][15] |  [][16] | ][17] | [][18] | [][19] | [][20] | 
 | [][21] | [][22] | [][23] | [][24] | [][25] |  [][26] | ][27] | [][28] | [][29] | [][30] | 
 
 
@@ -31,7 +31,7 @@
 [10]:https://www.threads.net/?__coig_challenged=1
 [11]:https://chatgpt.com/?hints=search
 [12]:https://claude.ai/new
-[13]:
+[13]:http://www.youtube.com
 [14]:
 [15]:
 [16]:
@@ -59,3 +59,9 @@
 * [创业的23条规则](https://joisig.com/rules-software-startup-minimum-hassle)（英文）
 * [20年程序员总结的编程规则](https://alexewerlof.medium.com/my-guiding-principles-after-20-years-of-programming-a087dc55596c)
 * [微控制器介绍](https://blog.toit.io/what-you-need-to-know-about-microcontrollers-5fabd6d5b019)
+
+## 书单
+* 《逻辑哲学论》 -_维特根斯坦_
+* 《哲学研究》-_维特根斯坦_
+* 《Essential Math for data Science》 - _Thomas Nield_
+
