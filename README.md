@@ -6,7 +6,7 @@
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 
 | - | - | - | - | - | - | - | - | - |  - |
 | [Gmail][1] | [Linked_In][2] | [X][3] | [Facebook][4] | [Z-Lib][5] |  [GitHub][6] | [My_Blog][7] | [RYF_weekly][8] | [技术周刊][9] | [Threads][10] | 
-| [ChatGPT][11] | [Claude][12] | [Youtube][13] | [][14] | [][15] |  [][16] | ][17] | [][18] | [][19] | [][20] | 
+| [ChatGPT][11] | [Claude][12] | [Youtube][13] | [Google][14] | [Bing][15] |  [Baidu][16] | [][17] | [][18] | [][19] | [][20] | 
 
 ## 日记
 * [2024-10-29]()
@@ -28,10 +28,14 @@
 [10]:https://www.threads.net/?__coig_challenged=1
 [11]:https://chatgpt.com/?hints=search
 [12]:https://claude.ai/new
-[13]:http://www.youtube.com
-[14]:
-[15]:
-
+[13]:https://www.youtube.com
+[14]:https://www.google.com
+[15]:https://www.bing.com
+[16]:https://www.baidu.com
+[17]:https://www.xxx.com
+[18]:https://www.xxx.com
+[19]:https://www.xxx.com
+[20]:https://www.xxx.com
 
 ## 工具集
 * [谷歌字体](https://fonts.google.com/specimen/Open+Sans)
