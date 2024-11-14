@@ -1,6 +1,12 @@
 ## 读书笔记
 * [《非暴力沟通》读书笔记](https://www.toutiao.com/article/7429707685110481418/?log_from=3f02b4955e25d_1729949861986)
 
+## Link
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 
+| - | - | - | - | - | - | - | - | - |  - |
+| [Gmail][1] | [Linked_In][2] | [X][3] | [Facebook][4] | [Z-Lib][5] |  [GitHub][6] | [My_Blog][7] | [RYF_weekly][8] | [技术周刊][9] | [Threads][10] | 
+| [ChatGPT][11] | [Claude][12] | [Youtube][13] | [][14] | [][15] |  [][16] | ][17] | [][18] | [][19] | [][20] | 
 
 ## 日记
 * [2024-10-29]()
@@ -9,15 +15,6 @@
 * [2024-10-27 Markdown标签语言学习笔记](https://github.com/RexWang1981/rexwang1981.github.io/blob/main/Docs/2024-10-27%20Rex%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0.md)
 * [2024-10-26](https://github.com/RexWang1981/rexwang1981.github.io/blob/main/2024_10_26.md)
 * [2024-11-8 Photo collections](https://github.com/RexWang1981/rexwang1981.github.io/blob/main/Docs/2024-11-8%20Photo.md)
-
-## Link
-
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 
-| - | - | - | - | - | - | - | - | - |  - |
-| [Gmail][1] | [Linked_In][2] | [X][3] | [Facebook][4] | [Z-Lib][5] |  [GitHub][6] | [My_Blog][7] | [RYF科技周刊][8] | [技术周刊][9] | [Threads][10] | 
-| [ChatGPT][11] | [Claude][12] | [Youtube][13] | [][14] | [][15] |  [][16] | ][17] | [][18] | [][19] | [][20] | 
-| [][21] | [][22] | [][23] | [][24] | [][25] |  [][26] | ][27] | [][28] | [][29] | [][30] | 
-
 
 [1]:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox
 [2]:https://www.linkedin.com/feed/
@@ -34,11 +31,6 @@
 [13]:http://www.youtube.com
 [14]:
 [15]:
-[16]:
-[17]:
-[18]:
-[19]:
-[20]:
 
 
 ## 工具集
