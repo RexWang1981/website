@@ -1,7 +1,7 @@
 # Links
 
 ## Daily Read
-
+* [boardmin](https://boardmix.cn)
 * [Gmail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 * [Linked_In](https://www.linkedin.com/feed/)
 * [X](https://www.x.com/)
