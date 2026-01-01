@@ -1,5 +1,11 @@
 # Rex Wang's Home Page
 
+## Blog-2026
+
+- [x] [2026-1-1 New year thinking](2026-01-01-001.md)
+
+
+
 ## Daily Read
 
 [Gmail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox) |
@@ -95,7 +101,11 @@
 [数学工具](https://www.desmos.com/?lang=zh-CN) |
 [VS_code_Web](https://cuddly-halibut-pjpr67jrxxg637q66.github.dev/?autoStart=true&folder=%2Fworkspaces%2F180725782&vscodeChannel=stable) |
 [单位换算](https://www.magtrol.com/calculators/) |
-[Mermaid-编码制作流程图](https://mermaid.js.org/)
+[Mermaid-编码制作流程图](https://mermaid.js.org/) |
+[Git命令速查](https://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html) |
+[]() |
+
+
 
 ## Create
 
