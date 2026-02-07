@@ -5,15 +5,15 @@
 ### Jan
 
 - [x] [2025-12-31](2025-12-31-001.md)
-- [x] [2026-1-2](2026-01-02-001.md)
-- [x] [2026-1-3](2026-01-03-003.md)
-- [x] [2026-1-4](2026-01-04-001.md)
-- [x] [2026-1-7](2026-01-07-001.md)
-- [x] [2026-1-11](2026-01-11-001.md)
+- [x] [2026-01-02](2026-01-02-001.md)
+- [x] [2026-01-03](2026-01-03-003.md)
+- [x] [2026-01-04](2026-01-04-001.md)
+- [x] [2026-01-07](2026-01-07-001.md)
+- [x] [2026-01-11](2026-01-11-001.md)
 
 ### Feb
 
-- [x] [2026-2-7](2026-02-07-003.md)
+- [x] [2026-02-07](2026-02-07-003.md)
 
 ## Daily Read
 
@@ -165,3 +165,5 @@
 [What f*ck Python](https://github.com/leisurelicht/wtfpython-cn) |
 [程序语法速查工具](https://www.geeksforgeeks.org/)
 [Python官方中文文档](https://static.oschina.net/trytry/python3-11-5/) 
+
+<a href="https://imgchr.com/i/pZAqYUU"><img src="https://s21.ax1x.com/2025/11/26/pZAqYUU.jpg" alt="pZAqYUU.jpg" width='250' border="0" /></a>
