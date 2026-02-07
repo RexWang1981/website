@@ -2,9 +2,18 @@
 
 ## Blog-2026
 
-- [x] [2026-1-1 New year thinking](2026-01-01-001.md)
+### Jan
 
+- [x] [2025-12-31](2025-12-31-001.md)
+- [x] [2026-1-2](2026-01-02-001.md)
+- [x] [2026-1-3](2026-01-03-003.md)
+- [x] [2026-1-4](2026-01-04-001.md)
+- [x] [2026-1-7](2026-01-07-001.md)
+- [x] [2026-1-11](2026-01-11-001.md)
 
+### Feb
+
+- [x] [2026-2-7](2026-02-07-003.md)
 
 ## Daily Read
 
@@ -71,7 +80,6 @@
 [Agent](https://agent.ai/) |
 [Google_notebook_llm](https://notebooklm.google.com/) |
 [生成语音](https://starling-speak.online/)
-
 
 ## Learn
 
