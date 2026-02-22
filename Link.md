@@ -172,8 +172,10 @@
 * 提示：[您的问题] 创建一个表格，更具描述性，并将答案分为不同的类别
 * 提示：[你的问题] 让我们一步一步来思考
 
+## data
+
+- [Global Animal Consumption](https://www.humanconsumption.live/)
+
 ## Record
 
 * Balancing Rigid Rotors ISO 1940
-
-* 🚩🛠️📝📚💻
