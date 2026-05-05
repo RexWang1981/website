@@ -2,18 +2,17 @@
 
 ## Daily Read
 
-* [boardmin](https://boardmix.cn)
-* [Facebook](https://www.facebook.com/)
-* [Z-Lib](https://zh.z-lib.gs/)
-* [GitHub](https://github.com/ruanyf/weekly)
-* [My_Blog](https://github.com/RexWang1981/rexwang1981.github.io/tree/main)
-* [My_Log](https://github.com/RexWang1981/log?tab=readme-ov-file)
-* [RYF_weekly](https://github.com/ruanyf/weekly)
-* [KK_Blog](https://kk.org/)
-* [Tim_Blog](https://tim.blog/)
-* [Sive_blog](https://sive.rs/)
-* [Seths_Blog](https://seths.blog/)
-
+[boardmin](https://boardmix.cn) | 
+[Facebook](https://www.facebook.com/)
+[Z-Lib](https://zh.z-lib.gs/) | 
+[GitHub](https://github.com/ruanyf/weekly) | 
+[My_Blog](https://github.com/RexWang1981/rexwang1981.github.io/tree/main) | 
+[My_Log](https://github.com/RexWang1981/log?tab=readme-ov-file) | 
+[RYF_weekly](https://github.com/ruanyf/weekly) | 
+[KK_Blog](https://kk.org/) | 
+[Tim_Blog](https://tim.blog/) | 
+[Sive_blog](https://sive.rs/) | 
+[Seths_Blog](https://seths.blog/) | 
 
 ## AI tools
 
